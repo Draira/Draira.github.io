@@ -2096,3 +2096,7 @@ figure figcaption {
       background-color: rgba(255, 255, 255, 0.5); }
     .single-text .owl-dots .owl-dot.active > span {
       background-color: #fff; }
+
+div.d {
+    text-align: justify;
+} 
